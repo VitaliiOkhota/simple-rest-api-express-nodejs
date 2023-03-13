@@ -1,1 +1,1 @@
-Приклад простого REST API з підключенням до Postgresql
+Simple Rest API based on NodeJS/Express. Postgresql is used as a database.
